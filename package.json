@@ -1,0 +1,23 @@
+{
+  "name": "HW15",
+  "version": "1.0.0",
+  "description": "sequelized",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbdesai/HW15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbdesai/HW15/issues"
+  },
+  "homepage": "https://github.com/dbdesai/HW15#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "sequelize": "^3.23.1"
+  }
+}
